@@ -51,7 +51,7 @@ Permite ao usuário inserir um valor para saque, e o programa calcula quantas c�
 
 ## 📦 Exemplo de Uso
 
-```bash
+
 --- Caixa Eletrônico ---
 
 Digite o valor a ser sacado...: 388
