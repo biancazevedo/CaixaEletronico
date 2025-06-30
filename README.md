@@ -7,8 +7,8 @@ title: Caixa Eletrônico
 
 Projeto simples e interativo de terminal que simula um caixa eletrônico.  
 Permite ao usuário inserir um valor para saque, e o programa calcula quantas cédulas de cada valor devem ser entregues.
-
 [Clique aqui para baixar](https://github.com/biancazevedo/CaixaEletronico/raw/refs/heads/main/dist/publish.zip)
+
 ---
 
 # 🏗️ Como o Programa Funciona
