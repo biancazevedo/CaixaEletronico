@@ -77,5 +77,6 @@ O caixa deve entregar:
 
 
 Deseja realizar outro saque? (s/n): n
+
 Encerrando o programa...
 
