@@ -1,8 +1,3 @@
----
-layout: home
-title: Caixa Eletrônico
----
-
 ## 💰 Simulador de Caixa Eletrônico 💻
 
 Projeto simples e interativo de terminal que simula um caixa eletrônico.  
