@@ -1,4 +1,9 @@
-## 💰 Simulador de Caixa Eletrônico💻
+---
+layout: home
+title: Caixa Eletrônico
+---
+
+## 💰 Simulador de Caixa Eletrônico 💻
 
 Projeto simples e interativo de terminal que simula um caixa eletrônico.  
 Permite ao usuário inserir um valor para saque, e o programa calcula quantas cédulas de cada valor devem ser entregues.
@@ -51,31 +56,19 @@ Permite ao usuário inserir um valor para saque, e o programa calcula quantas c�
 
 ## 📦 Exemplo de Uso
 
-
+```bash
 --- Caixa Eletrônico ---
-
 Digite o valor a ser sacado...: 388
 
-
 O caixa deve entregar:
-
 1 nota(s) de R$200,00
-
 1 nota(s) de R$100,00
-
 1 nota(s) de R$50,00
-
 1 nota(s) de R$20,00
-
 1 nota(s) de R$10,00
-
 1 nota(s) de R$5,00
-
 1 nota(s) de R$2,00
-
 1 nota(s) de R$1,00
-
 
 Deseja realizar outro saque? (s/n): n
 Encerrando o programa...
-
